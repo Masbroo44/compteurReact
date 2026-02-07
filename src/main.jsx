@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div style={{ textAlign: 'center', marginTop: '50px', fontFamily: 'sans-serif' }}>
-      <h1>🚀 Application Déployée par Webhook</h1>
+      <h1> Déployée par Webhook</h1>
       <p>La branche actuelle est : <b>master</b></p>
       <div style={{ padding: '20px', border: '1px solid #ccc', display: 'inline-block' }}>
         <h2>Compteur : {count}</h2>
